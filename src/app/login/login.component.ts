@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { redirectUrl } from './constants/redirect';
+import redirectUrl  from '../constants/redirect';
 
 @Component({
   selector: 'app-login',
